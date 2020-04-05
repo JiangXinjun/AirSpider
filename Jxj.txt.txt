@@ -1,0 +1,6 @@
+学习Git，以及在Github上进行团队开发   正在学
+学习Python基础   正在学
+HTML 基础学习   没学
+Python爬虫   学了一点
+Redis   没学
+设计模式  没学
